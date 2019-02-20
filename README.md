@@ -4,6 +4,8 @@ Jedná se o webovou aplikaci sestávající se z frontendu v React.js komunikuj�
 Aplikace je dostupná online na adrese https://cosmolist.herokuapp.com/.
 
 ## Backend a databáze
+Kód dostupný na https://github.com/asuba512/Cosmolist-backend.
+
 Backend zprostředkovává jednoduchá aplikace v Node.js spolu s GraphQL API knihovnou. Komunikaci s MongoDB databází provádí Mongoose knihovna.
 
 Samotná databáze je velmi jendoduchá a obsahuje pouze dvě tabulky: `cosmonauts` a `superpowers`. 
@@ -17,6 +19,7 @@ Tabulka `superpowers` kromě jména superschopnosti ukládá také seznam kosmon
 GraphQL API poskytuje dvě query (`cosmonauts`, `superpowers`) a šest mutací (pro přidání/úpravu/odebrání záznamu do obou tabulek).
 
 ## Frontend
+Kód dostupný na https://github.com/asuba512/Cosmolist-frontend.
 
 Frontend byl vytvořen v React.js jako SPA. UI se skládá z navigační lišty a okna pro obsah.
 
