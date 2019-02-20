@@ -14,7 +14,7 @@ Tabulka `cosmonauts` ukládá všechna požadovaná data. Superschopnost je ulo�
 
 Tabulka `superpowers` kromě jména superschopnosti ukládá také seznam kosmonautů, kteří touto superschopností disponují.
 
-GraphQL API poskytuje dvě query (`cosmonauts`, `superpowers`) a šest mutations (pro přidání/úpravu/odebrání záznamu do obou tabulek).
+GraphQL API poskytuje dvě query (`cosmonauts`, `superpowers`) a šest mutací (pro přidání/úpravu/odebrání záznamu do obou tabulek).
 
 ## Frontend
 
