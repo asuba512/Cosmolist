@@ -29,7 +29,7 @@ Samotný seznam evidovných kosmonautů je řešen jako mřížka "karet" kosmon
 
 Nad seznamem kosmonautů se nachází filtrovací a ovládací prvky celé evidence. Zejména pole pro vyhledávání, filtrování podle superschopností, tlačítko pro přidání nového kosmonauta do evidence a správa superschopností.
 
-Formulář pro přidání nového kosmonauta je stejný jako editační formulář a je řešen pomocí modálního okna. Volba superschopnosti je implementována jako select menu s vyhledávání. V případě neexistence hledané superschopnosti, je možné ji rychle přidat přímo z těchto formulářů.
+Formulář pro přidání nového kosmonauta je stejný jako editační formulář a je řešen pomocí modálního okna. Volba superschopnosti je implementována jako select menu s vyhledáváním.
 
 Pokročilé úpravu evidovaných superschopností je možné provádět ve správě superchopností, která je opět řešena jako modální okno. Zde se nachází pole pro vyhledávání a pro přidávání nových superschopností. Dále seznam superschopností s tlačítky pro přejmenování či odstranění superschopnosti.
  
